@@ -1,5 +1,6 @@
 # WebDriver
 Task for WebDriver
+
 При выполнении задания необходимо использовать возможности Selenium WebDriver,
 юнит-тест фреймворка и концепцию Page Object. 
 Автоматизировать следующий сценарий:
@@ -77,4 +78,3 @@ Hurt Me Plenty
 7. Нажать Add to Estimate
 8. Проверить соответствие данных следующих полей: VM Class, Instance type, Region, local SSD, commitment term
 9. Проверить что сумма аренды в месяц совпадает с суммой получаемой при ручном прохождении теста.
-       
